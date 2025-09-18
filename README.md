@@ -11,9 +11,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **IT Engineering Graduate (2025)** from *Parul University*  
-- 💻 Passionate about **Full-Stack Development (MERN)**  
-- 🌱 Exploring **Next.js** and building scalable apps  
+- 🎓 **IT Engineer "25"** from *Parul University*  
+- 💻 **Software Developer | Full-Stack Development | MERN | AI/ML**    
 - 🛠️ Love working on **Real-Time Apps, Cloud Deployment & Automation**  
 - 🤝 Open to collaborating on **Open Source Projects**  
 - ⚡ **Fun Fact:** I enjoy solving real-world problems using **Tech + Engineering**
