@@ -55,31 +55,69 @@
 
 ### 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+<p align="center">
+  <sub>Java 8 / 11 / 17 · OOP · Collections · Streams API · Multithreading basics</sub>
 </p>
 
-### ⚙️ Frameworks
+### ⚙️ Backend & Frameworks
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=oracle" />
 </p>
 
-### 🤖 AI / ML
 <p align="center">
-<img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20RAG-red?style=for-the-badge"/>
+  <sub>Oracle Database · SQL · PL/SQL · Stored Procedures · Views · Indexing · Query Optimization</sub>
 </p>
 
-### ☁️ DevOps & Tools
+### 📨 Messaging
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=kafka" />
+</p>
+
+<p align="center">
+  <sub>Apache Kafka consumers for payment, authorization and settlement events</sub>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,linux" />
+</p>
+
+<p align="center">
+  <sub>AWS (EC2, S3, RDS) · Jenkins CI/CD · Docker · Kubernetes · Git</sub>
+</p>
+
+### 🧪 Testing & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge"/>
+</p>
+
+### 🏦 Domain
+<p align="center">
+  <img src="https://img.shields.io/badge/Banking%20%26%20Financial%20Services-003366?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Credit%20Card%20Processing-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Payments%20%26%20Settlement-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Production%20Support-orange?style=for-the-badge"/>
 </p>
 
 ---
