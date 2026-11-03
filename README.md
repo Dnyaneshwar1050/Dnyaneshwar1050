@@ -28,8 +28,7 @@
 
 - 💻 Full Stack Developer  
 - 🤖 Working on AI-powered platforms  
-- ⚡ Building real-world scalable applications  
-- 🚀 Open to Full-Time Opportunities  
+- ⚡ Building real-world scalable applications   
 
 ---
 
